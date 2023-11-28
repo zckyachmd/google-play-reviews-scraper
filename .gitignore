@@ -1,0 +1,12 @@
+# Logs
+app-logs.log
+
+# Output ulasan
+*.json
+
+# Berkas token paginasi
+*-nextPaginationToken.txt
+
+# Berkas konfigurasi npm
+node_modules/
+package-lock.json
